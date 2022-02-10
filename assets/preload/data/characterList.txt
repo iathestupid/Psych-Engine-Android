@@ -19,6 +19,7 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+sans
 invisibru
 template1
 template2
